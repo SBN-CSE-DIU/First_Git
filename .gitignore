@@ -4,3 +4,6 @@
 
 /WebApp_Empty/.vs/WebApp_Empty/v16
 /WebApp_Empty/WebApp_Empty/obj
+/WebAppApi/.vs/WebAppApi
+/WebAppApi/WebAppApi/bin/Debug/netcoreapp2.1
+/WebAppApi/WebAppApi/obj
